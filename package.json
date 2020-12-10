@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "performance": "node performance.js",
     "test": "xo && nyc ava -s test/index.js"
   },
   "ava": {
